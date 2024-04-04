@@ -10,7 +10,7 @@ namespace NorthwindCustomersAPJ.Models
     public class Customer
     {
         [JsonProperty("id")]
-        public int IdCustomer { get; set; }
+        public string IdCustomer { get; set; }
         [JsonProperty("contactName")]
         public string Name { get; set; }        
         [JsonProperty("companyName")]
