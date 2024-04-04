@@ -8,6 +8,8 @@
     <Authors>Alejandropj</Authors>
     <Description>Paquete para consumir Northwind Customers</Description>
     <PackageIcon>hannah1.jpg</PackageIcon>
+    <Version>1.0.1</Version>
+    <PackageTags>northwind, alejandropj, patata</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
